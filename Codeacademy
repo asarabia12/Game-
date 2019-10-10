@@ -1,8 +1,6 @@
 function create() {
-  // Change "Codey's Adventures\n  in Code World" to the name of your game
   this.add.text(50, 100, "Hit Ball", { font: "40px Times New Roman", fill: "#ffa0d0"});
 
-  // Change "by Codecademy" to your name!
   this.add.text(130, 300, "by Adam S.", { font: "20px Times New Roman", fill: "#ffa0d0"});
 }
 
